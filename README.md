@@ -16,8 +16,8 @@
 -Subject: CT5
 
 #Login Credentials
--Username: admin
--Password: 12345
+-Username: pawii
+-Password: #*#147
 
 #Screenshot
 -See the uploaded screenshots in this repository.
